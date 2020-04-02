@@ -54,7 +54,7 @@ body {
     text-align: center;
   }
 
-  .about-article p {
+  article p {
     padding: 40px;
     padding-top: 10px;
     line-height: 25px;
